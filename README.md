@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=zrc3yqle02jdt4kwiuiemj7sb&radius=11&profile=off&bg_color=3d0641&text_color=ffffff)
+
 <!--
 **Kindershoki/Kindershoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
