@@ -1,18 +1,33 @@
-## Hi there 👋
+<h1 data-importer="text" align="left">Hey There, i am Chloe ✮⋆˙</h1>
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=zrc3yqle02jdt4kwiuiemj7sb&radius=11&profile=off&bg_color=3d0641&text_color=ffffff)
+###
 
-<!--
-**Kindershoki/Kindershoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img data-importer="snake" src="https://raw.githubusercontent.com/Kindershoki/Kindershoki/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/kinderschoki">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kinderschoki&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
